@@ -1,0 +1,2 @@
+[12:35:48] [INFO]: Starting Login Test
+[12:35:50] [INFO]: Login Test Completed
